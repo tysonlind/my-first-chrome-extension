@@ -1,0 +1,19 @@
+{
+  "name": "chrome_extension_tutorial",
+  "version": "1.0.0",
+  "description": "chrome extension tutorial",
+  "main": "scripts/popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "extension"
+  ],
+  "author": "Tyson Lind",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-types": "^0.1.299"
+  }
+}
